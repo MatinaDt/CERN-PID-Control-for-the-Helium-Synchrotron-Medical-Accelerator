@@ -33,6 +33,12 @@ Key aspects:
 
 ---
 
+## Note for Users
+
+This notebook represents the original student implementation from 2023. It is primarily provided as an archival record of the work and may not run end-to-end without adjustments. Users should be aware that some variables and file paths may need to be corrected, dependencies installed, and environment-specific details updated. Since the project has since been continued and extended (including a C++ implementation), this notebook is best viewed as documentation of the original approach rather than production-ready code.
+
+---
+
 ## Getting Started
 
 1. **Clone this repository:**
