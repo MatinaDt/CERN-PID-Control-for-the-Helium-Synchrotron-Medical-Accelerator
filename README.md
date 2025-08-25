@@ -11,9 +11,6 @@ The broader context is the NIMMS (Next Ion Medical Machine Study) Group’s effo
 * **RFKO\_feedback\_controll.ipynb**
   Jupyter Notebook with the implementation of the RFKO feedback controller, simulation workflow, and plots.
 
-* [**[https://repository.cern/records/8wd3z-jdt90**](./DETSI_Summer_Student_Report.pdf)
-  Full project report with background theory, methodology, simulation results, and conclusions.
-
 * **Figures/** *(optional)*
   Directory for extracted plots/diagrams from the notebook.
 
@@ -101,17 +98,12 @@ This project was extended after its completion. Rebecca Taylor continued the wor
 
 ---
 
-## Reference
+## Reference and Citation
 
 The official CERN project report is available here:
 [https://cds.cern.ch/record/2879791](https://cds.cern.ch/record/2879791)
 
----
-
-## Citation
-
 If you use this code or report, please cite:
-
 **Stamatina Detsi**, *A Feedback Controller for the RFKO Method for Slow Extraction for NIMMS Helium Synchrotron*, CERN-STUDENTS-Note-2023-232, 2023.
 [CERN Document Server](https://cds.cern.ch/record/2879791)
 
