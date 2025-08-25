@@ -14,9 +14,6 @@ The broader context is the NIMMS (Next Ion Medical Machine Study) Group’s effo
 * **Figures/** *(optional)*
   Directory for extracted plots/diagrams from the notebook.
 
-* **LICENSE** *(optional)*
-  Add a license if you plan to open-source the project (e.g., MIT, CC-BY).
-
 ---
 
 ## Project Overview
