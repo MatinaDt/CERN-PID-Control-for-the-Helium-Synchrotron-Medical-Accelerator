@@ -11,7 +11,7 @@ The broader context is the NIMMS (Next Ion Medical Machine Study) Group’s effo
 * **RFKO\_feedback\_controll.ipynb**
   Jupyter Notebook with the implementation of the RFKO feedback controller, simulation workflow, and plots.
 
-* [**DETSI\_Summer\_Student\_Report.pdf**](./DETSI_Summer_Student_Report.pdf)
+* [**[https://repository.cern/records/8wd3z-jdt90**](./DETSI_Summer_Student_Report.pdf)
   Full project report with background theory, methodology, simulation results, and conclusions.
 
 * **Figures/** *(optional)*
