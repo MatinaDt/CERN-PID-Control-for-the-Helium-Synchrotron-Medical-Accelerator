@@ -11,9 +11,10 @@ The broader context is the NIMMS (Next Ion Medical Machine Study) Group’s effo
 * **RFKO\_feedback\_controll.ipynb**
   Jupyter Notebook with the implementation of the RFKO feedback controller, simulation workflow, and plots.
 
-% * **Figures/** *(optional)*
-  % Directory for extracted plots/diagrams from the notebook.
-
+```
+ * **Figures/** *(optional)*
+   Directory for extracted plots/diagrams from the notebook.
+```
 ---
 
 ## Project Overview
