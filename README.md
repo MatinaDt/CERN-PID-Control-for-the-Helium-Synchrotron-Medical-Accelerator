@@ -2,7 +2,7 @@
 
 This repository contains the code and documentation for developing a feedback controller for the Radio-Frequency Knock-Out (RFKO) method in slow beam extraction, implemented in simulation with Xsuite. The project was carried out as part of the CERN NIMMS Summer Student Program 2023.
 
-The broader context is the NIMMS (Next Ion Medical Machine Study) Group’s effort to design a new medical accelerator, the Helium-Synchrotron, for radiotherapy applications. A key challenge in this larger project is to provide a uniform, stable beam spill for precise tumor treatment, which is achieved through slow extraction using the RFKO method. This work focuses on the feedback controller design that supports this overall accelerator development.
+The broader context is the NIMMS (Next Ion Medical Machine Study) Group’s effort to design a new medical accelerator, the Helium-Synchrotron, for radiotherapy applications. A key challenge in this larger project is to provide a uniform, stable beam spill for precise tumour treatment, which is achieved through slow extraction using the RFKO method. This work focuses on the feedback controller design that supports this overall accelerator development.
 
 ---
 
@@ -11,15 +11,11 @@ The broader context is the NIMMS (Next Ion Medical Machine Study) Group’s effo
 * **RFKO\_feedback\_controll.ipynb**
   Jupyter Notebook with the implementation of the RFKO feedback controller, simulation workflow, and plots.
 
-```
- * **Figures/** *(optional)*
-   Directory for extracted plots/diagrams from the notebook.
-```
 ---
 
 ## Project Overview
 
-The project’s goal is to design and simulate a feedback-based control system that stabilizes particle beam extraction in a Helium Synchrotron for medical applications such as radiotherapy.
+The project’s goal is to design and simulate a feedback-based control system that stabilises particle beam extraction in a Helium Synchrotron for medical applications such as radiotherapy.
 A stable, uniform beam spill is critical to ensure precise patient treatment.
 
 Key aspects:
