@@ -103,10 +103,6 @@ This project was extended after its completion. Rebecca Taylor continued the wor
 The official CERN project report is available here:
 [https://cds.cern.ch/record/2879791](https://cds.cern.ch/record/2879791)
 
-If you use this code or report, please cite:
-**Stamatina Detsi**, *A Feedback Controller for the RFKO Method for Slow Extraction for NIMMS Helium Synchrotron*, CERN-STUDENTS-Note-2023-232, 2023.
-[CERN Document Server](https://cds.cern.ch/record/2879791)
-
 ---
 
 ## Acknowledgements
